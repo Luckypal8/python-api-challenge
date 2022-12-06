@@ -1,3 +1,6 @@
+# Adding config.py file.
+api_keys.py
+
 # Build and Release Folders
 bin-debug/
 bin-release/
